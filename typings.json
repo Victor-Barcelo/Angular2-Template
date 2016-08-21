@@ -1,0 +1,8 @@
+{
+  "name": "ng2.0.0-rc.4-Template",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160317120654"
+  }
+}
